@@ -1,5 +1,7 @@
 <?php
 
+//@Author 𝒮𝓎𝒽𝒶𝓇𝒶𝒶
+
 interface PublicMethods{
  	public function callNumber($number);
  	public function getNumber();
